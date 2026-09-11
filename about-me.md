@@ -1,13 +1,55 @@
-## Hello! 
+<img width="2093" height="1254" alt="projetos" src="https://github.com/user-attachments/assets/48b921fc-ebb3-4cef-a37a-9778f20e4dfb" />
 
-Hello
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="center">Currently Studying</h3> 
+
+<p align="center">
+  Basics:
+  Kali Tools | Pentesting | Networking
+</p>
+
+<h3 align="center">Skills & Technologies</h3>
+
+<p align="center">
+   Python
+</p>
+
+<h3 align="center">Courses in Progress</h3>
+
+<p align="center">
+   Solyd Offensive Security | TryHackMe | HackTheBox
+</p>
+
+<div align="center">
+
+<h2>About Me</h2>
+
+<p>
+I'm a <strong>Cybersecurity student</strong> currently learning
+<strong>Networking, Linux, and Python</strong>. I'm always looking to improve my skills and expand my knowledge.
+I have a strong hunger for learning and constantly seek new challenges.
+If you give me a task, I won't stop until I truly understand it and can do it properly.
+</p>
+
+</div>
+
+<div align="center">
+
+<h2>Projects</h2>
+
+<p>
+I don't have any projects yet, but I'm highly motivated and eager to participate in one.
+I'm always looking for opportunities to learn, contribute, and gain hands-on experience.
+</p>
+
+</div>
+
+<div align="center">
+
+<h2>Contact</h2>
+
+<p>
+  Discord: fallstopper
+</p>
+
