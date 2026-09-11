@@ -5,7 +5,9 @@
 <h3 align="center">Currently Studying</h3> 
 
 <p align="center">
-  Basics:
+  <b>Basics:</b>
+</p>
+  <p align="center">
   Kali Tools | Pentesting | Networking
 </p>
 
