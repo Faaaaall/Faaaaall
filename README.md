@@ -53,6 +53,7 @@ I'm always looking for opportunities to learn, contribute, and gain hands-on exp
 
 <p>
   Discord: fallstopper
+  <p>
   Email: 4everallstarfall@gmail.com
 </p>
 
