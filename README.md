@@ -57,3 +57,9 @@ I'm always looking for opportunities to learn, contribute, and gain hands-on exp
   goodbyefaall@gmail.com
 </p>
 
+<h2>Languages</h2>
+
+<p>
+  English and Portuguese (native)
+</p>
+
