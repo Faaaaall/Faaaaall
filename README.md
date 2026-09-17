@@ -52,7 +52,7 @@ I'm always looking for opportunities to learn, contribute, and gain hands-on exp
 <h2>Contact</h2>
 
 <p>
-  Discord: fallstopper
+  Discord: f_aaall
   <p>
   goodbyefaall@gmail.com
 </p>
