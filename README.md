@@ -60,6 +60,11 @@ I'm always looking for opportunities to learn, contribute, and gain hands-on exp
 <h2>Languages</h2>
 
 <p>
-  English and Portuguese (native)
-</p>
-
+  English C1/Advanced 
+<p>
+  Portuguese Brazilian (native)
+</p> 
+  Spanish A2/Elementary
+</p> 
+  French A1/Beginner
+</p> 
